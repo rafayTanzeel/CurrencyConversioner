@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CurrencyConversion</string>
+    <string name="amount_hint">Input Amount</string>
+    <string name="item_rate">Rate</string>
+    <string name="item_currency">Curr</string>
+    <string name="base_url_currency">http://api.fixer.io/</string>
+</resources>
